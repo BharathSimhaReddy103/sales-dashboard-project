@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-3# Load data
+# Load data
 df=pd.read_csv("C:/Users/BHARATH SIMHA REDDY/OneDrive/Desktop/sales-dasshboard-project/sales_data.csv")
 
 #print(df.head())
